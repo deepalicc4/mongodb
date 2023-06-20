@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIA6GGOQB2JPOC57DEC"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 module "loadbalancer" {
   
